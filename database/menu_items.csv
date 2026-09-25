@@ -1,0 +1,16 @@
+menuItemID,itemName,price,category,availabilityStatus
+1,Classic Pearl Milk Tea,5.80,Milk Tea,true
+2,Honey Pearl Milk Tea,6.00,Milk Tea,true
+3,Coffee Milk Tea,6.25,Milk Tea,true
+4,Hokkaido Pearl Milk Tea,6.25,Milk Tea,true
+5,Thai Pearl Milk Tea,6.25,Milk Tea,true
+6,Taro Pearl Milk Tea,6.25,Milk Tea,true
+7,Mango Green Milk Tea,6.50,Milk Tea,true
+8,Matcha Ice Blended,6.50,Ice Blended,true
+9,Strawberry Ice Blended,6.25,Ice Blended,true
+10,Mango Ice Blended,6.25,Ice Blended,true
+11,Classic Black Tea,5.20,Brewed Tea,true
+12,Classic Green Tea,5.20,Brewed Tea,true
+13,Wintermelon Tea,5.80,Fruit Tea,true
+14,Passion Fruit Green Tea,6.25,Fruit Tea,true
+15,Mango Green Tea,6.25,Fruit Tea,true

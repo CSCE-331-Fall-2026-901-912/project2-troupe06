@@ -1,0 +1,24 @@
+ingredientID,ingredientName,quantityAvailable,unitOfMeasure
+1,Black Tea,50000,mL
+2,Green Tea,50000,mL
+3,Milk,30000,mL
+4,Tapioca Pearls,15000,g
+5,Honey,8000,mL
+6,Coffee,10000,mL
+7,Taro Powder,10000,g
+8,Matcha Powder,8000,g
+9,Mango Syrup,10000,mL
+10,Passion Fruit Syrup,10000,mL
+11,Strawberry Syrup,10000,mL
+12,Wintermelon Syrup,10000,mL
+13,Sugar,20000,g
+14,Ice,100000,g
+15,Cups,5000,count
+16,Lids,5000,count
+17,Straws,5000,count
+18,Napkins,10000,count
+19,Bags,2000,count
+20,Lychee Jelly,8000,g
+21,Pudding,8000,g
+22,Mini Pearls,8000,g
+23,Aloe Vera,8000,g
